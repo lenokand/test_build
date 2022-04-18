@@ -1,0 +1,1 @@
+document.querySelector(".hiden_menu").addEventListener("click",(function(){document.querySelector(".submenu").classList.toggle("show")}));
